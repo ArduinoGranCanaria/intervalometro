@@ -1,0 +1,4 @@
+intervalometro
+==============
+
+Intervalómetro con Arduino.
